@@ -1,0 +1,6 @@
+{
+  "name": "The Study Vault",
+  "description": "A lightweight, uniquely designed educational platform hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
