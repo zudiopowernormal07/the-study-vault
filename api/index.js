@@ -12,7 +12,7 @@ const platformData = {
     name: 'Physics Wallah',
     tagline: 'Quality Education',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Physics_wallah_logo.svg/1280px-Physics_wallah_logo.svg.png',
-    websiteUrl: 'https://pw.sumitkumawat.eu.org/',
+    websiteUrl: 'https://pw.sumit.qzz.io/',
     description: 'Physics Wallah provides high-quality and affordable education. Access live classes, structured video lectures, and practice materials for a wide range of exams including JEE, NEET, and board preparations.',
     stats: { rating: '4.8', reviews: '5M', downloads: '10M+', age: '3+' },
     tags: ['Education', 'Online Classes', 'Live Streams'],
