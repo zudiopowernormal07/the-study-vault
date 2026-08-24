@@ -75,20 +75,21 @@ const platformData = {
     screenshotLayout: 'portrait'
   },
   'next-topper': {
-    name: 'NEXT TOPPER',
+    name: 'THE NOX STUDY',
     tagline: 'Your Path to Excellence',
-    logo: 'https://www.image2url.com/r2/default/images/1785386998131-40cc4721-6853-4b0b-875a-f312d65c923f.png',
-    websiteUrl: 'https://nt.sumitkumawat.eu.org/',
-    description: 'NEXT TOPPER is the ultimate learning platform designed to help you achieve your academic goals and become the next topper.',
+    logo: 'https://www.image2url.com/r2/default/images/1787556241139-15c870bc-680c-4b5a-9361-71b562642ecc.png',
+    websiteUrl: 'https://noxstudy.site',
+    description: 'NoxStudy is a premium virtual library and professional study room platform.',
     stats: { rating: '4.9', reviews: '10K+', downloads: '100K+', age: '3+' },
-    tags: ['Education', 'Exam Prep', 'Learning'],
+    tags: ['VirtualLibrary', 'StudyRoom', 'RemoteLearning'],
     comingSoon: false,
     screenshots: [
-      'https://www.image2url.com/r2/default/images/1785396097736-dfef3f00-c807-4c4b-b374-81c601891f61.png',
-      'https://www.image2url.com/r2/default/images/1785398143493-c1c9058c-8cc4-4699-b69e-521007030ba1.png',
-      'https://www.image2url.com/r2/default/images/1785396436038-96426ee3-bba7-4e38-95b6-20d090a89e65.png',
-      'https://www.image2url.com/r2/default/images/1785396508407-cb9df2d6-28ea-47e1-bad3-a066f985b11e.png',
-      'https://www.image2url.com/r2/default/images/1785396895482-a054a78d-7d40-4548-b07e-7959acaac49b.png'
+      'https://www.image2url.com/r2/default/images/1787556672526-34e85c99-2ef6-471c-95ae-782e531e65ad.png',
+      'https://www.image2url.com/r2/default/images/1787556741853-920c4675-421c-4f14-96bd-fe32b70428b7.png',
+      'https://www.image2url.com/r2/default/images/1787556822536-4e8414cb-0f2e-4e76-b643-7a3f840b499c.png',
+      'https://www.image2url.com/r2/default/images/1787556902596-f2b2d2f1-b1aa-4e3c-834f-24cfb462b245.png',
+      'https://www.image2url.com/r2/default/images/1787556953762-0c2aedac-b09e-48cb-9ff8-bade17992714.png',
+      'https://www.image2url.com/r2/default/images/1787557019322-b7617a87-7ef5-48be-8c7c-2a98f980dd11.png'
     ],
     theme: 'from-emerald-500 to-teal-500',
     shadow: 'shadow-emerald-500/40',
