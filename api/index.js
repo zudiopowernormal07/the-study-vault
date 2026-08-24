@@ -73,30 +73,6 @@ const platformData = {
     buttonColor: 'bg-amber-500 hover:bg-amber-600',
     logoFit: 'cover',
     screenshotLayout: 'portrait'
-  },
-  'next-topper': {
-    name: 'THE NOX STUDY',
-    tagline: 'Your Path to Excellence',
-    logo: 'https://www.image2url.com/r2/default/images/1787556241139-15c870bc-680c-4b5a-9361-71b562642ecc.png',
-    websiteUrl: 'https://noxstudy.site',
-    description: 'NoxStudy is a premium virtual library and professional study room platform.',
-    stats: { rating: '4.9', reviews: '10K+', downloads: '100K+', age: '3+' },
-    tags: ['VirtualLibrary', 'StudyRoom', 'RemoteLearning'],
-    comingSoon: false,
-    screenshots: [
-      'https://www.image2url.com/r2/default/images/1787556672526-34e85c99-2ef6-471c-95ae-782e531e65ad.png',
-      'https://www.image2url.com/r2/default/images/1787556741853-920c4675-421c-4f14-96bd-fe32b70428b7.png',
-      'https://www.image2url.com/r2/default/images/1787556822536-4e8414cb-0f2e-4e76-b643-7a3f840b499c.png',
-      'https://www.image2url.com/r2/default/images/1787556902596-f2b2d2f1-b1aa-4e3c-834f-24cfb462b245.png',
-      'https://www.image2url.com/r2/default/images/1787556953762-0c2aedac-b09e-48cb-9ff8-bade17992714.png',
-      'https://www.image2url.com/r2/default/images/1787557019322-b7617a87-7ef5-48be-8c7c-2a98f980dd11.png'
-    ],
-    theme: 'from-emerald-500 to-teal-500',
-    shadow: 'shadow-emerald-500/40',
-    accent: 'bg-emerald-50 text-emerald-600',
-    buttonColor: 'bg-emerald-600 hover:bg-emerald-700',
-    logoFit: 'cover',
-    screenshotLayout: 'landscape'
   }
 };
 
